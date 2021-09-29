@@ -1,0 +1,3 @@
+name = Warehouse API functions
+description = Warehouse api custom module
+core = 6.x
